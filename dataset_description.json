@@ -59,6 +59,5 @@
     ],
     "HowToAcknowledge": "Include the generated boilerplate in the methods section.",
     "License": "CC0",
-    "Name": "PAFIN: PennLINC AFfective INstability- QSIRecon Derivatives",
-    "DatasetDOI": "doi:10.18112/openneuro.ds006184.v1.0.0"
+    "Name": "PAFIN: PennLINC AFfective INstability- QSIRecon Derivatives"
 }
