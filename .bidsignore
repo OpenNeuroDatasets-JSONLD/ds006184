@@ -1,7 +1,7 @@
 *.html
 log
-logs
-figures
+logs/
+figures/
 *_xfm.*
 *.surf.gii
 *_boldref.nii.gz
