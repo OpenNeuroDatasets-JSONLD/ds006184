@@ -59,5 +59,6 @@
     ],
     "HowToAcknowledge": "Please cite the PAFIN paper (https://doi.org/10.52294/001c.151820) and QSIPrep paper (https://www.nature.com/articles/s41592-021-01185-5#citeas), and include the generated citation boilerplate within the Methods section of the text.",
     "License": "CC0",
-    "Name": "PAFIN: PennLINC AFfective INstability- QSIRecon Derivatives"
+    "Name": "PAFIN: PennLINC AFfective INstability- QSIRecon Derivatives",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006184.v2.0.0"
 }
